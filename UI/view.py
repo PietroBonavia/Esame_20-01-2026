@@ -73,3 +73,6 @@ class View:
 
     def update_page(self):
         self._page.update()
+
+    def update(self):
+        pass
